@@ -1,0 +1,229 @@
+traffic_sensor_id,freeway,nearest_monitor_site,nearest_monitor_city,parameter,distance_km,pollution_baseline
+716939,5,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,2.91,0.005609
+759700,5,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,5.84,0.005609
+716925,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,7.21,0.005194
+715930,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,6.6,0.005194
+715938,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,7.65,0.005194
+716908,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,11.04,0.005194
+716912,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,10.04,0.005194
+759707,5,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,5.03,0.005609
+716930,5,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,8.13,0.005609
+764232,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,8.23,0.005194
+716918,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,7.06,0.005194
+716934,5,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,6.66,0.005609
+763980,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,7.07,0.005194
+715898,5,La Habra,La Habra,Carbon monoxide,8.11,0.15813
+759542,5,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,7.04,0.005194
+715947,5,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,7.66,0.005609
+762685,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,1.54,0.005194
+716819,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,0.98,0.005194
+717864,605,Compton,Compton,Lead (TSP) LC,9.28,0.005419
+717940,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.6,0.005194
+716800,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,6.05,0.005194
+717912,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,1.8,0.005194
+717865,605,Compton,Compton,Lead (TSP) LC,9.27,0.005419
+762678,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,2.77,0.005194
+766851,605,Compton,Compton,Lead (TSP) LC,9.22,0.005419
+763464,605,Compton,Compton,Lead (TSP) LC,9.22,0.005419
+717859,605,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),9.37,15.773417
+717938,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.31,0.005194
+717907,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,2.01,0.005194
+717885,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,6.04,0.005194
+717884,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,6.92,0.005194
+717879,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,7.9,0.005194
+717882,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,6.87,0.005194
+737152,605,Compton,Compton,Lead (TSP) LC,9.42,0.005419
+769513,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,8.62,0.005194
+717892,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,5.07,0.005194
+717896,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,4.09,0.005194
+717876,605,Compton,Compton,Lead (TSP) LC,9.76,0.005419
+716829,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,4.14,0.005194
+717875,605,Compton,Compton,Lead (TSP) LC,9.76,0.005419
+717933,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.31,0.005194
+716788,605,Compton,Compton,Lead (TSP) LC,9.22,0.005419
+717833,605,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,9.03,1.158889
+762637,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.6,0.005194
+717929,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,1.83,0.005194
+717925,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,1.54,0.005194
+717881,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,6.87,0.005194
+717871,605,Compton,Compton,Lead (TSP) LC,9.2,0.005419
+717867,605,Compton,Compton,Lead (TSP) LC,9.21,0.005419
+717844,605,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,9.33,1.158889
+762679,605,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,2.77,0.005194
+760130,105,Compton,Compton,Lead (TSP) LC,8.78,0.005419
+760166,105,Compton,Compton,Lead (TSP) LC,7.36,0.005419
+760100,105,Compton,Compton,Lead (TSP) LC,11.7,0.005419
+760289,105,Compton,Compton,Lead (TSP) LC,4.56,0.005419
+773656,105,Compton,Compton,Lead (TSP) LC,14.43,0.005419
+760112,105,Compton,Compton,Lead (TSP) LC,11.25,0.005419
+716453,105,Compton,Compton,Lead (TSP) LC,3.0,0.005419
+760226,105,Compton,Compton,Lead (TSP) LC,2.5,0.005419
+765476,105,Compton,Compton,Lead (TSP) LC,7.37,0.005419
+760167,105,Compton,Compton,Lead (TSP) LC,7.36,0.005419
+760178,105,Compton,Compton,Lead (TSP) LC,6.09,0.005419
+760442,105,Compton,Compton,Lead (TSP) LC,11.86,0.005419
+716470,105,Compton,Compton,Lead (TSP) LC,8.51,0.005419
+760139,105,Compton,Compton,Lead (TSP) LC,6.99,0.005419
+760572,105,Compton,Compton,Lead (TSP) LC,2.63,0.005419
+716459,105,Compton,Compton,Lead (TSP) LC,4.72,0.005419
+760369,105,Compton,Compton,Lead (TSP) LC,7.72,0.005419
+763716,105,Compton,Compton,Lead (TSP) LC,3.41,0.005419
+760375,105,Compton,Compton,Lead (TSP) LC,7.25,0.005419
+760110,105,Compton,Compton,Lead (TSP) LC,11.25,0.005419
+760074,105,Compton,Compton,Lead (TSP) LC,14.01,0.005419
+760490,105,Compton,Compton,Lead (TSP) LC,8.06,0.005419
+767838,105,Compton,Compton,Lead (TSP) LC,14.86,0.005419
+768914,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),9.03,15.773417
+717435,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),11.72,15.773417
+717439,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),12.15,15.773417
+717393,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),2.0,15.773417
+759990,91,La Habra,La Habra,Carbon monoxide,11.77,0.15813
+768229,91,La Habra,La Habra,Carbon monoxide,11.46,0.15813
+717434,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),11.26,15.773417
+717402,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),3.67,15.773417
+766555,91,La Habra,La Habra,Carbon monoxide,11.49,0.15813
+717416,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),5.76,15.773417
+717383,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),2.3,15.773417
+773381,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),1.57,15.773417
+716272,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),8.28,15.773417
+717404,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),4.04,15.773417
+768228,91,La Habra,La Habra,Carbon monoxide,11.44,0.15813
+716273,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),7.57,15.773417
+717424,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),7.08,15.773417
+717433,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),11.26,15.773417
+717376,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),4.94,15.773417
+717436,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),11.78,15.773417
+717367,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),6.62,15.773417
+716296,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),2.83,15.773417
+717390,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),1.47,15.773417
+759989,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),11.72,15.773417
+759992,91,Anaheim,Anaheim,Carbon monoxide,11.01,0.219354
+759967,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),3.67,15.773417
+717410,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),4.78,15.773417
+759975,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),11.26,15.773417
+768898,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),7.07,15.773417
+773365,91,Anaheim,Anaheim,Carbon monoxide,10.23,0.219354
+717426,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),7.41,15.773417
+773363,91,Anaheim,Anaheim,Carbon monoxide,10.23,0.219354
+717440,91,La Habra,La Habra,Carbon monoxide,11.77,0.15813
+765467,91,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),5.09,15.773417
+717045,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,6.38,0.005609
+718419,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,5.3,0.005609
+718410,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),3.22,1.713918
+764050,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),3.66,1.713918
+717032,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,10.22,0.005609
+737237,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),3.47,1.713918
+716057,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,8.6,0.005609
+763458,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,5.03,0.005609
+763963,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),9.63,1.713918
+717019,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),8.01,1.713918
+763346,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,8.8,0.005609
+763341,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),5.46,1.713918
+763453,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,4.99,0.005609
+768584,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),6.31,1.713918
+717011,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),6.49,1.713918
+737158,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,4.53,0.005609
+716063,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,7.22,0.005609
+717016,10,West Los Angeles,West Los Angeles,Nitric oxide (NO),7.69,1.713918
+718335,10,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,6.63,0.005609
+717269,60,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,5.57,0.005609
+717290,60,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.56,0.005194
+716206,60,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,4.41,0.005609
+717274,60,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,7.75,0.005609
+717316,60,Closet World (Quemetco),Industry (corporate name for City of Industry),Lead (TSP) LC,4.45,0.017968
+717265,60,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,5.14,0.005609
+773274,60,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,6.94,0.005609
+773294,60,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.81,0.005194
+773409,60,Closet World (Quemetco),Industry (corporate name for City of Industry),Lead (TSP) LC,1.91,0.017968
+717273,60,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,7.75,0.005609
+717292,60,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.42,0.005194
+717288,60,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.64,0.005194
+773273,60,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,6.93,0.005609
+717303,60,Pico Rivera #2,Pico Rivera,Lead (TSP) LC,3.57,0.005194
+718002,710,Compton,Compton,Lead (TSP) LC,7.95,0.005419
+718493,710,Compton,Compton,Lead (TSP) LC,2.2,0.005419
+717995,710,Compton,Compton,Lead (TSP) LC,6.35,0.005419
+718018,710,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,6.03,0.005609
+718102,710,Compton,Compton,Lead (TSP) LC,1.97,0.005419
+761761,710,Compton,Compton,Lead (TSP) LC,2.14,0.005419
+718321,710,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,7.19,0.005609
+717983,710,Compton,Compton,Lead (TSP) LC,4.17,0.005419
+718280,405,Compton,Compton,Lead (TSP) LC,15.28,0.005419
+718223,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,4.47,1.158889
+771864,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,3.1,33.336054
+718245,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,3.23,1.158889
+717738,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),7.33,15.773417
+771866,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,3.1,33.336054
+764611,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),10.18,15.773417
+771969,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),10.16,1.713918
+717706,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,3.01,1.158889
+762552,405,Compton,Compton,Lead (TSP) LC,13.26,0.005419
+717790,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),5.81,1.713918
+718221,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,5.44,1.158889
+717795,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),2.13,1.713918
+717756,405,Compton,Compton,Lead (TSP) LC,13.66,0.005419
+718266,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),11.57,15.773417
+761523,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),9.03,15.773417
+718230,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,3.28,1.158889
+771899,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,2.53,33.336054
+761482,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),13.67,1.713918
+717722,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,3.22,33.336054
+717729,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,2.62,33.336054
+717735,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,5.85,33.336054
+716674,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),12.46,15.773417
+718249,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,2.57,33.336054
+764578,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),12.41,1.713918
+717758,405,Compton,Compton,Lead (TSP) LC,14.4,0.005419
+718265,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),11.7,15.773417
+774105,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),8.48,1.713918
+717760,405,Compton,Compton,Lead (TSP) LC,14.57,0.005419
+771917,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,2.88,33.336054
+769265,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),11.44,1.713918
+772454,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),4.64,1.713918
+717707,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,3.01,1.158889
+762533,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,2.38,1.158889
+718287,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),11.44,1.713918
+718232,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,2.88,1.158889
+769263,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),12.63,1.713918
+761444,405,Compton,Compton,Lead (TSP) LC,13.09,0.005419
+718479,405,Compton,Compton,Lead (TSP) LC,14.42,0.005419
+769259,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),13.64,1.713918
+717715,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,2.25,1.158889
+772437,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),5.35,1.713918
+772532,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),3.65,1.713918
+764671,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),8.48,1.713918
+764572,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),12.62,1.713918
+718242,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,2.82,1.158889
+717744,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),9.88,15.773417
+717709,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,2.82,1.158889
+716663,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),8.04,15.773417
+772455,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),4.64,1.713918
+772527,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),4.67,1.713918
+762545,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,4.81,33.336054
+717711,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,2.18,1.158889
+762582,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,4.07,1.158889
+767847,405,Compton,Compton,Lead (TSP) LC,15.34,0.005419
+771939,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,5.19,33.336054
+759422,405,Compton,Compton,Lead (TSP) LC,15.34,0.005419
+761440,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),10.86,15.773417
+718256,405,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,5.85,33.336054
+717740,405,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),8.23,15.773417
+718296,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),5.83,1.713918
+718227,405,Signal Hill (LBSH),Signal Hill,Sulfur dioxide,3.63,1.158889
+716720,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),1.61,1.713918
+764596,405,Compton,Compton,Lead (TSP) LC,15.39,0.005419
+772456,405,West Los Angeles,West Los Angeles,Nitric oxide (NO),4.64,1.713918
+763267,110,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,10.83,0.005609
+759418,110,Compton,Compton,Lead (TSP) LC,7.47,0.005419
+763447,110,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,7.27,0.005609
+716499,110,Compton,Compton,Lead (TSP) LC,8.85,0.005419
+716484,110,Compton,Compton,Lead (TSP) LC,7.62,0.005419
+763400,110,Compton,Compton,Lead (TSP) LC,9.59,0.005419
+763413,110,Compton,Compton,Lead (TSP) LC,10.94,0.005419
+718164,110,Los Angeles-North Main Street,Los Angeles,Antimony (TSP) STP,9.92,0.005609
+763392,110,Compton,Compton,Lead (TSP) LC,9.44,0.005419
+766337,110,Long Beach-Route 710 Near Road,Long Beach,Nitric oxide (NO),7.79,15.773417
+763272,110,Compton,Compton,Lead (TSP) LC,10.27,0.005419
+763532,110,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,7.68,33.336054
+763522,110,Long Beach (Hudson),Long Beach,PM10 Total 0-10um STP,6.29,33.336054
+763275,110,Compton,Compton,Lead (TSP) LC,10.27,0.005419
