@@ -1,0 +1,913 @@
+sensor_id,freeway,pollutant,distance_km,baseline_mean,units,monitor_site
+716939,5,Nitrogen dioxide (NO2),2.91,29.330532,Parts per billion,Los Angeles-North Main Street
+716939,5,Ozone,2.91,0.051825,Parts per million,Los Angeles-North Main Street
+716939,5,PM2.5 - Local Conditions,2.91,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+716939,5,Carbon monoxide,2.91,0.393321,Parts per million,Los Angeles-North Main Street
+759700,5,Nitrogen dioxide (NO2),5.84,29.330532,Parts per billion,Los Angeles-North Main Street
+759700,5,Ozone,5.84,0.051825,Parts per million,Los Angeles-North Main Street
+759700,5,PM2.5 - Local Conditions,5.84,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+759700,5,Carbon monoxide,5.84,0.393321,Parts per million,Los Angeles-North Main Street
+716925,5,Nitrogen dioxide (NO2),7.21,27.433058,Parts per billion,Pico Rivera #2
+716925,5,Ozone,7.21,0.056825,Parts per million,Pico Rivera #2
+716925,5,PM2.5 - Local Conditions,7.21,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+716925,5,Carbon monoxide,7.21,0.359784,Parts per million,Pico Rivera #2
+715930,5,Nitrogen dioxide (NO2),6.6,27.433058,Parts per billion,Pico Rivera #2
+715930,5,Ozone,6.6,0.056825,Parts per million,Pico Rivera #2
+715930,5,PM2.5 - Local Conditions,6.6,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+715930,5,Carbon monoxide,6.6,0.359784,Parts per million,Pico Rivera #2
+715938,5,Nitrogen dioxide (NO2),7.65,27.433058,Parts per billion,Pico Rivera #2
+715938,5,Ozone,7.65,0.056825,Parts per million,Pico Rivera #2
+715938,5,PM2.5 - Local Conditions,7.65,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+715938,5,Carbon monoxide,7.65,0.359784,Parts per million,Pico Rivera #2
+716908,5,Nitrogen dioxide (NO2),11.04,27.433058,Parts per billion,Pico Rivera #2
+716908,5,Ozone,11.04,0.056825,Parts per million,Pico Rivera #2
+716908,5,PM2.5 - Local Conditions,11.04,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+716908,5,Carbon monoxide,11.04,0.359784,Parts per million,Pico Rivera #2
+716912,5,Nitrogen dioxide (NO2),10.04,27.433058,Parts per billion,Pico Rivera #2
+716912,5,Ozone,10.04,0.056825,Parts per million,Pico Rivera #2
+716912,5,PM2.5 - Local Conditions,10.04,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+716912,5,Carbon monoxide,10.04,0.359784,Parts per million,Pico Rivera #2
+759707,5,Nitrogen dioxide (NO2),5.03,29.330532,Parts per billion,Los Angeles-North Main Street
+759707,5,Ozone,5.03,0.051825,Parts per million,Los Angeles-North Main Street
+759707,5,PM2.5 - Local Conditions,5.03,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+759707,5,Carbon monoxide,5.03,0.393321,Parts per million,Los Angeles-North Main Street
+716930,5,Nitrogen dioxide (NO2),8.13,29.330532,Parts per billion,Los Angeles-North Main Street
+716930,5,Ozone,8.13,0.051825,Parts per million,Los Angeles-North Main Street
+716930,5,PM2.5 - Local Conditions,8.13,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+716930,5,Carbon monoxide,8.13,0.393321,Parts per million,Los Angeles-North Main Street
+764232,5,Nitrogen dioxide (NO2),8.23,27.433058,Parts per billion,Pico Rivera #2
+764232,5,Ozone,8.23,0.056825,Parts per million,Pico Rivera #2
+764232,5,PM2.5 - Local Conditions,8.23,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+764232,5,Carbon monoxide,8.23,0.359784,Parts per million,Pico Rivera #2
+716918,5,Nitrogen dioxide (NO2),7.06,27.433058,Parts per billion,Pico Rivera #2
+716918,5,Ozone,7.06,0.056825,Parts per million,Pico Rivera #2
+716918,5,PM2.5 - Local Conditions,7.06,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+716918,5,Carbon monoxide,7.06,0.359784,Parts per million,Pico Rivera #2
+716934,5,Nitrogen dioxide (NO2),6.66,29.330532,Parts per billion,Los Angeles-North Main Street
+716934,5,Ozone,6.66,0.051825,Parts per million,Los Angeles-North Main Street
+716934,5,PM2.5 - Local Conditions,6.66,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+716934,5,Carbon monoxide,6.66,0.393321,Parts per million,Los Angeles-North Main Street
+763980,5,Nitrogen dioxide (NO2),7.07,27.433058,Parts per billion,Pico Rivera #2
+763980,5,Ozone,7.07,0.056825,Parts per million,Pico Rivera #2
+763980,5,PM2.5 - Local Conditions,7.07,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+763980,5,Carbon monoxide,7.07,0.359784,Parts per million,Pico Rivera #2
+715898,5,Nitrogen dioxide (NO2),8.11,20.272145,Parts per billion,La Habra
+715898,5,Ozone,8.11,0.053331,Parts per million,La Habra
+715898,5,PM2.5 - Local Conditions,9.47,10.512222,Micrograms/cubic meter (LC),Anaheim
+715898,5,Carbon monoxide,8.11,0.225318,Parts per million,La Habra
+759542,5,Nitrogen dioxide (NO2),7.04,27.433058,Parts per billion,Pico Rivera #2
+759542,5,Ozone,7.04,0.056825,Parts per million,Pico Rivera #2
+759542,5,PM2.5 - Local Conditions,7.04,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+759542,5,Carbon monoxide,7.04,0.359784,Parts per million,Pico Rivera #2
+715947,5,Nitrogen dioxide (NO2),7.66,29.330532,Parts per billion,Los Angeles-North Main Street
+715947,5,Ozone,7.66,0.051825,Parts per million,Los Angeles-North Main Street
+715947,5,PM2.5 - Local Conditions,7.66,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+715947,5,Carbon monoxide,7.66,0.393321,Parts per million,Los Angeles-North Main Street
+762685,605,Nitrogen dioxide (NO2),1.54,27.433058,Parts per billion,Pico Rivera #2
+762685,605,Ozone,1.54,0.056825,Parts per million,Pico Rivera #2
+762685,605,PM2.5 - Local Conditions,1.54,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+762685,605,Carbon monoxide,1.54,0.359784,Parts per million,Pico Rivera #2
+716819,605,Nitrogen dioxide (NO2),0.98,27.433058,Parts per billion,Pico Rivera #2
+716819,605,Ozone,0.98,0.056825,Parts per million,Pico Rivera #2
+716819,605,PM2.5 - Local Conditions,0.98,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+716819,605,Carbon monoxide,0.98,0.359784,Parts per million,Pico Rivera #2
+717864,605,Nitrogen dioxide (NO2),9.28,24.28477,Parts per billion,Compton
+717864,605,Ozone,9.28,0.048333,Parts per million,Compton
+717864,605,PM2.5 - Local Conditions,9.28,12.629412,Micrograms/cubic meter (LC),Compton
+717864,605,Carbon monoxide,9.28,0.373044,Parts per million,Compton
+717940,605,Nitrogen dioxide (NO2),3.6,27.433058,Parts per billion,Pico Rivera #2
+717940,605,Ozone,3.6,0.056825,Parts per million,Pico Rivera #2
+717940,605,PM2.5 - Local Conditions,3.6,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717940,605,Carbon monoxide,3.6,0.359784,Parts per million,Pico Rivera #2
+716800,605,Nitrogen dioxide (NO2),6.05,27.433058,Parts per billion,Pico Rivera #2
+716800,605,Ozone,6.05,0.056825,Parts per million,Pico Rivera #2
+716800,605,PM2.5 - Local Conditions,6.05,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+716800,605,Carbon monoxide,6.05,0.359784,Parts per million,Pico Rivera #2
+717912,605,Nitrogen dioxide (NO2),1.8,27.433058,Parts per billion,Pico Rivera #2
+717912,605,Ozone,1.8,0.056825,Parts per million,Pico Rivera #2
+717912,605,PM2.5 - Local Conditions,1.8,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717912,605,Carbon monoxide,1.8,0.359784,Parts per million,Pico Rivera #2
+717865,605,Nitrogen dioxide (NO2),9.27,24.28477,Parts per billion,Compton
+717865,605,Ozone,9.27,0.048333,Parts per million,Compton
+717865,605,PM2.5 - Local Conditions,9.27,12.629412,Micrograms/cubic meter (LC),Compton
+717865,605,Carbon monoxide,9.27,0.373044,Parts per million,Compton
+762678,605,Nitrogen dioxide (NO2),2.77,27.433058,Parts per billion,Pico Rivera #2
+762678,605,Ozone,2.77,0.056825,Parts per million,Pico Rivera #2
+762678,605,PM2.5 - Local Conditions,2.77,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+762678,605,Carbon monoxide,2.77,0.359784,Parts per million,Pico Rivera #2
+766851,605,Nitrogen dioxide (NO2),9.22,24.28477,Parts per billion,Compton
+766851,605,Ozone,9.22,0.048333,Parts per million,Compton
+766851,605,PM2.5 - Local Conditions,9.22,12.629412,Micrograms/cubic meter (LC),Compton
+766851,605,Carbon monoxide,9.22,0.373044,Parts per million,Compton
+763464,605,Nitrogen dioxide (NO2),9.22,24.28477,Parts per billion,Compton
+763464,605,Ozone,9.22,0.048333,Parts per million,Compton
+763464,605,PM2.5 - Local Conditions,9.22,12.629412,Micrograms/cubic meter (LC),Compton
+763464,605,Carbon monoxide,9.22,0.373044,Parts per million,Compton
+717859,605,Nitrogen dioxide (NO2),9.37,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717859,605,Ozone,9.43,0.048333,Parts per million,Compton
+717859,605,PM2.5 - Local Conditions,9.37,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717859,605,Carbon monoxide,9.43,0.373044,Parts per million,Compton
+717938,605,Nitrogen dioxide (NO2),3.31,27.433058,Parts per billion,Pico Rivera #2
+717938,605,Ozone,3.31,0.056825,Parts per million,Pico Rivera #2
+717938,605,PM2.5 - Local Conditions,3.31,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717938,605,Carbon monoxide,3.31,0.359784,Parts per million,Pico Rivera #2
+717907,605,Nitrogen dioxide (NO2),2.01,27.433058,Parts per billion,Pico Rivera #2
+717907,605,Ozone,2.01,0.056825,Parts per million,Pico Rivera #2
+717907,605,PM2.5 - Local Conditions,2.01,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717907,605,Carbon monoxide,2.01,0.359784,Parts per million,Pico Rivera #2
+717885,605,Nitrogen dioxide (NO2),6.04,27.433058,Parts per billion,Pico Rivera #2
+717885,605,Ozone,6.04,0.056825,Parts per million,Pico Rivera #2
+717885,605,PM2.5 - Local Conditions,6.04,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717885,605,Carbon monoxide,6.04,0.359784,Parts per million,Pico Rivera #2
+717884,605,Nitrogen dioxide (NO2),6.92,27.433058,Parts per billion,Pico Rivera #2
+717884,605,Ozone,6.92,0.056825,Parts per million,Pico Rivera #2
+717884,605,PM2.5 - Local Conditions,6.92,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717884,605,Carbon monoxide,6.92,0.359784,Parts per million,Pico Rivera #2
+717879,605,Nitrogen dioxide (NO2),7.9,27.433058,Parts per billion,Pico Rivera #2
+717879,605,Ozone,7.9,0.056825,Parts per million,Pico Rivera #2
+717879,605,PM2.5 - Local Conditions,7.9,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717879,605,Carbon monoxide,7.9,0.359784,Parts per million,Pico Rivera #2
+717882,605,Nitrogen dioxide (NO2),6.87,27.433058,Parts per billion,Pico Rivera #2
+717882,605,Ozone,6.87,0.056825,Parts per million,Pico Rivera #2
+717882,605,PM2.5 - Local Conditions,6.87,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717882,605,Carbon monoxide,6.87,0.359784,Parts per million,Pico Rivera #2
+737152,605,Nitrogen dioxide (NO2),9.42,24.28477,Parts per billion,Compton
+737152,605,Ozone,9.42,0.048333,Parts per million,Compton
+737152,605,PM2.5 - Local Conditions,9.42,12.629412,Micrograms/cubic meter (LC),Compton
+737152,605,Carbon monoxide,9.42,0.373044,Parts per million,Compton
+769513,605,Nitrogen dioxide (NO2),8.62,27.433058,Parts per billion,Pico Rivera #2
+769513,605,Ozone,8.62,0.056825,Parts per million,Pico Rivera #2
+769513,605,PM2.5 - Local Conditions,8.62,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+769513,605,Carbon monoxide,8.62,0.359784,Parts per million,Pico Rivera #2
+717892,605,Nitrogen dioxide (NO2),5.07,27.433058,Parts per billion,Pico Rivera #2
+717892,605,Ozone,5.07,0.056825,Parts per million,Pico Rivera #2
+717892,605,PM2.5 - Local Conditions,5.07,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717892,605,Carbon monoxide,5.07,0.359784,Parts per million,Pico Rivera #2
+717896,605,Nitrogen dioxide (NO2),4.09,27.433058,Parts per billion,Pico Rivera #2
+717896,605,Ozone,4.09,0.056825,Parts per million,Pico Rivera #2
+717896,605,PM2.5 - Local Conditions,4.09,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717896,605,Carbon monoxide,4.09,0.359784,Parts per million,Pico Rivera #2
+717876,605,Nitrogen dioxide (NO2),9.76,24.28477,Parts per billion,Compton
+717876,605,Ozone,9.76,0.048333,Parts per million,Compton
+717876,605,PM2.5 - Local Conditions,9.76,12.629412,Micrograms/cubic meter (LC),Compton
+717876,605,Carbon monoxide,9.76,0.373044,Parts per million,Compton
+716829,605,Nitrogen dioxide (NO2),4.14,27.433058,Parts per billion,Pico Rivera #2
+716829,605,Ozone,4.14,0.056825,Parts per million,Pico Rivera #2
+716829,605,PM2.5 - Local Conditions,4.14,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+716829,605,Carbon monoxide,4.14,0.359784,Parts per million,Pico Rivera #2
+717875,605,Nitrogen dioxide (NO2),9.76,24.28477,Parts per billion,Compton
+717875,605,Ozone,9.76,0.048333,Parts per million,Compton
+717875,605,PM2.5 - Local Conditions,9.76,12.629412,Micrograms/cubic meter (LC),Compton
+717875,605,Carbon monoxide,9.76,0.373044,Parts per million,Compton
+717933,605,Nitrogen dioxide (NO2),3.31,27.433058,Parts per billion,Pico Rivera #2
+717933,605,Ozone,3.31,0.056825,Parts per million,Pico Rivera #2
+717933,605,PM2.5 - Local Conditions,3.31,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717933,605,Carbon monoxide,3.31,0.359784,Parts per million,Pico Rivera #2
+716788,605,Nitrogen dioxide (NO2),9.22,24.28477,Parts per billion,Compton
+716788,605,Ozone,9.22,0.048333,Parts per million,Compton
+716788,605,PM2.5 - Local Conditions,9.22,12.629412,Micrograms/cubic meter (LC),Compton
+716788,605,Carbon monoxide,9.22,0.373044,Parts per million,Compton
+717833,605,Nitrogen dioxide (NO2),9.03,21.307324,Parts per billion,Signal Hill (LBSH)
+717833,605,Ozone,9.03,0.046921,Parts per million,Signal Hill (LBSH)
+717833,605,PM2.5 - Local Conditions,9.03,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+717833,605,Carbon monoxide,13.41,0.347953,Parts per million,Anaheim
+762637,605,Nitrogen dioxide (NO2),3.6,27.433058,Parts per billion,Pico Rivera #2
+762637,605,Ozone,3.6,0.056825,Parts per million,Pico Rivera #2
+762637,605,PM2.5 - Local Conditions,3.6,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+762637,605,Carbon monoxide,3.6,0.359784,Parts per million,Pico Rivera #2
+717929,605,Nitrogen dioxide (NO2),1.83,27.433058,Parts per billion,Pico Rivera #2
+717929,605,Ozone,1.83,0.056825,Parts per million,Pico Rivera #2
+717929,605,PM2.5 - Local Conditions,1.83,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717929,605,Carbon monoxide,1.83,0.359784,Parts per million,Pico Rivera #2
+717925,605,Nitrogen dioxide (NO2),1.54,27.433058,Parts per billion,Pico Rivera #2
+717925,605,Ozone,1.54,0.056825,Parts per million,Pico Rivera #2
+717925,605,PM2.5 - Local Conditions,1.54,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717925,605,Carbon monoxide,1.54,0.359784,Parts per million,Pico Rivera #2
+717881,605,Nitrogen dioxide (NO2),6.87,27.433058,Parts per billion,Pico Rivera #2
+717881,605,Ozone,6.87,0.056825,Parts per million,Pico Rivera #2
+717881,605,PM2.5 - Local Conditions,6.87,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717881,605,Carbon monoxide,6.87,0.359784,Parts per million,Pico Rivera #2
+717871,605,Nitrogen dioxide (NO2),9.2,24.28477,Parts per billion,Compton
+717871,605,Ozone,9.2,0.048333,Parts per million,Compton
+717871,605,PM2.5 - Local Conditions,9.2,12.629412,Micrograms/cubic meter (LC),Compton
+717871,605,Carbon monoxide,9.2,0.373044,Parts per million,Compton
+717867,605,Nitrogen dioxide (NO2),9.21,24.28477,Parts per billion,Compton
+717867,605,Ozone,9.21,0.048333,Parts per million,Compton
+717867,605,PM2.5 - Local Conditions,9.21,12.629412,Micrograms/cubic meter (LC),Compton
+717867,605,Carbon monoxide,9.21,0.373044,Parts per million,Compton
+717844,605,Nitrogen dioxide (NO2),9.33,21.307324,Parts per billion,Signal Hill (LBSH)
+717844,605,Ozone,9.33,0.046921,Parts per million,Signal Hill (LBSH)
+717844,605,PM2.5 - Local Conditions,9.33,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+717844,605,Carbon monoxide,12.01,0.373044,Parts per million,Compton
+762679,605,Nitrogen dioxide (NO2),2.77,27.433058,Parts per billion,Pico Rivera #2
+762679,605,Ozone,2.77,0.056825,Parts per million,Pico Rivera #2
+762679,605,PM2.5 - Local Conditions,2.77,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+762679,605,Carbon monoxide,2.77,0.359784,Parts per million,Pico Rivera #2
+760130,105,Nitrogen dioxide (NO2),8.78,24.28477,Parts per billion,Compton
+760130,105,Ozone,8.78,0.048333,Parts per million,Compton
+760130,105,PM2.5 - Local Conditions,8.78,12.629412,Micrograms/cubic meter (LC),Compton
+760130,105,Carbon monoxide,8.78,0.373044,Parts per million,Compton
+760166,105,Nitrogen dioxide (NO2),7.36,24.28477,Parts per billion,Compton
+760166,105,Ozone,7.36,0.048333,Parts per million,Compton
+760166,105,PM2.5 - Local Conditions,7.36,12.629412,Micrograms/cubic meter (LC),Compton
+760166,105,Carbon monoxide,7.36,0.373044,Parts per million,Compton
+760100,105,Nitrogen dioxide (NO2),11.7,24.28477,Parts per billion,Compton
+760100,105,Ozone,11.7,0.048333,Parts per million,Compton
+760100,105,PM2.5 - Local Conditions,11.7,12.629412,Micrograms/cubic meter (LC),Compton
+760100,105,Carbon monoxide,11.7,0.373044,Parts per million,Compton
+760289,105,Nitrogen dioxide (NO2),4.56,24.28477,Parts per billion,Compton
+760289,105,Ozone,4.56,0.048333,Parts per million,Compton
+760289,105,PM2.5 - Local Conditions,4.56,12.629412,Micrograms/cubic meter (LC),Compton
+760289,105,Carbon monoxide,4.56,0.373044,Parts per million,Compton
+773656,105,Nitrogen dioxide (NO2),14.43,24.28477,Parts per billion,Compton
+773656,105,Ozone,14.43,0.048333,Parts per million,Compton
+773656,105,PM2.5 - Local Conditions,14.43,12.629412,Micrograms/cubic meter (LC),Compton
+773656,105,Carbon monoxide,14.43,0.373044,Parts per million,Compton
+760112,105,Nitrogen dioxide (NO2),11.25,24.28477,Parts per billion,Compton
+760112,105,Ozone,11.25,0.048333,Parts per million,Compton
+760112,105,PM2.5 - Local Conditions,11.25,12.629412,Micrograms/cubic meter (LC),Compton
+760112,105,Carbon monoxide,11.25,0.373044,Parts per million,Compton
+716453,105,Nitrogen dioxide (NO2),3.0,24.28477,Parts per billion,Compton
+716453,105,Ozone,3.0,0.048333,Parts per million,Compton
+716453,105,PM2.5 - Local Conditions,3.0,12.629412,Micrograms/cubic meter (LC),Compton
+716453,105,Carbon monoxide,3.0,0.373044,Parts per million,Compton
+760226,105,Nitrogen dioxide (NO2),2.5,24.28477,Parts per billion,Compton
+760226,105,Ozone,2.5,0.048333,Parts per million,Compton
+760226,105,PM2.5 - Local Conditions,2.5,12.629412,Micrograms/cubic meter (LC),Compton
+760226,105,Carbon monoxide,2.5,0.373044,Parts per million,Compton
+765476,105,Nitrogen dioxide (NO2),7.37,24.28477,Parts per billion,Compton
+765476,105,Ozone,7.37,0.048333,Parts per million,Compton
+765476,105,PM2.5 - Local Conditions,7.37,12.629412,Micrograms/cubic meter (LC),Compton
+765476,105,Carbon monoxide,7.37,0.373044,Parts per million,Compton
+760167,105,Nitrogen dioxide (NO2),7.36,24.28477,Parts per billion,Compton
+760167,105,Ozone,7.36,0.048333,Parts per million,Compton
+760167,105,PM2.5 - Local Conditions,7.36,12.629412,Micrograms/cubic meter (LC),Compton
+760167,105,Carbon monoxide,7.36,0.373044,Parts per million,Compton
+760178,105,Nitrogen dioxide (NO2),6.09,24.28477,Parts per billion,Compton
+760178,105,Ozone,6.09,0.048333,Parts per million,Compton
+760178,105,PM2.5 - Local Conditions,6.09,12.629412,Micrograms/cubic meter (LC),Compton
+760178,105,Carbon monoxide,6.09,0.373044,Parts per million,Compton
+760442,105,Nitrogen dioxide (NO2),11.86,24.28477,Parts per billion,Compton
+760442,105,Ozone,11.86,0.048333,Parts per million,Compton
+760442,105,PM2.5 - Local Conditions,11.86,12.629412,Micrograms/cubic meter (LC),Compton
+760442,105,Carbon monoxide,11.86,0.373044,Parts per million,Compton
+716470,105,Nitrogen dioxide (NO2),8.51,24.28477,Parts per billion,Compton
+716470,105,Ozone,8.51,0.048333,Parts per million,Compton
+716470,105,PM2.5 - Local Conditions,8.51,12.629412,Micrograms/cubic meter (LC),Compton
+716470,105,Carbon monoxide,8.51,0.373044,Parts per million,Compton
+760139,105,Nitrogen dioxide (NO2),6.99,24.28477,Parts per billion,Compton
+760139,105,Ozone,6.99,0.048333,Parts per million,Compton
+760139,105,PM2.5 - Local Conditions,6.99,12.629412,Micrograms/cubic meter (LC),Compton
+760139,105,Carbon monoxide,6.99,0.373044,Parts per million,Compton
+760572,105,Nitrogen dioxide (NO2),2.63,24.28477,Parts per billion,Compton
+760572,105,Ozone,2.63,0.048333,Parts per million,Compton
+760572,105,PM2.5 - Local Conditions,2.63,12.629412,Micrograms/cubic meter (LC),Compton
+760572,105,Carbon monoxide,2.63,0.373044,Parts per million,Compton
+716459,105,Nitrogen dioxide (NO2),4.72,24.28477,Parts per billion,Compton
+716459,105,Ozone,4.72,0.048333,Parts per million,Compton
+716459,105,PM2.5 - Local Conditions,4.72,12.629412,Micrograms/cubic meter (LC),Compton
+716459,105,Carbon monoxide,4.72,0.373044,Parts per million,Compton
+760369,105,Nitrogen dioxide (NO2),7.72,24.28477,Parts per billion,Compton
+760369,105,Ozone,7.72,0.048333,Parts per million,Compton
+760369,105,PM2.5 - Local Conditions,7.72,12.629412,Micrograms/cubic meter (LC),Compton
+760369,105,Carbon monoxide,7.72,0.373044,Parts per million,Compton
+763716,105,Nitrogen dioxide (NO2),3.41,24.28477,Parts per billion,Compton
+763716,105,Ozone,3.41,0.048333,Parts per million,Compton
+763716,105,PM2.5 - Local Conditions,3.41,12.629412,Micrograms/cubic meter (LC),Compton
+763716,105,Carbon monoxide,3.41,0.373044,Parts per million,Compton
+760375,105,Nitrogen dioxide (NO2),7.25,24.28477,Parts per billion,Compton
+760375,105,Ozone,7.25,0.048333,Parts per million,Compton
+760375,105,PM2.5 - Local Conditions,7.25,12.629412,Micrograms/cubic meter (LC),Compton
+760375,105,Carbon monoxide,7.25,0.373044,Parts per million,Compton
+760110,105,Nitrogen dioxide (NO2),11.25,24.28477,Parts per billion,Compton
+760110,105,Ozone,11.25,0.048333,Parts per million,Compton
+760110,105,PM2.5 - Local Conditions,11.25,12.629412,Micrograms/cubic meter (LC),Compton
+760110,105,Carbon monoxide,11.25,0.373044,Parts per million,Compton
+760074,105,Nitrogen dioxide (NO2),14.01,24.28477,Parts per billion,Compton
+760074,105,Ozone,14.01,0.048333,Parts per million,Compton
+760074,105,PM2.5 - Local Conditions,14.01,12.629412,Micrograms/cubic meter (LC),Compton
+760074,105,Carbon monoxide,14.01,0.373044,Parts per million,Compton
+760490,105,Nitrogen dioxide (NO2),8.06,24.28477,Parts per billion,Compton
+760490,105,Ozone,8.06,0.048333,Parts per million,Compton
+760490,105,PM2.5 - Local Conditions,8.06,12.629412,Micrograms/cubic meter (LC),Compton
+760490,105,Carbon monoxide,8.06,0.373044,Parts per million,Compton
+767838,105,Nitrogen dioxide (NO2),14.86,24.28477,Parts per billion,Compton
+767838,105,Ozone,14.86,0.048333,Parts per million,Compton
+767838,105,PM2.5 - Local Conditions,14.86,12.629412,Micrograms/cubic meter (LC),Compton
+767838,105,Carbon monoxide,14.86,0.373044,Parts per million,Compton
+768914,91,Nitrogen dioxide (NO2),9.03,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+768914,91,Ozone,9.65,0.048333,Parts per million,Compton
+768914,91,PM2.5 - Local Conditions,9.03,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+768914,91,Carbon monoxide,9.65,0.373044,Parts per million,Compton
+717435,91,Nitrogen dioxide (NO2),11.72,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717435,91,Ozone,12.28,0.048333,Parts per million,Compton
+717435,91,PM2.5 - Local Conditions,11.72,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717435,91,Carbon monoxide,12.28,0.373044,Parts per million,Compton
+717439,91,Nitrogen dioxide (NO2),12.15,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717439,91,Ozone,12.17,0.053331,Parts per million,La Habra
+717439,91,PM2.5 - Local Conditions,12.15,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717439,91,Carbon monoxide,12.17,0.225318,Parts per million,La Habra
+717393,91,Nitrogen dioxide (NO2),2.0,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717393,91,Ozone,3.08,0.048333,Parts per million,Compton
+717393,91,PM2.5 - Local Conditions,2.0,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717393,91,Carbon monoxide,3.08,0.373044,Parts per million,Compton
+759990,91,Nitrogen dioxide (NO2),11.77,20.272145,Parts per billion,La Habra
+759990,91,Ozone,11.77,0.053331,Parts per million,La Habra
+759990,91,PM2.5 - Local Conditions,12.6,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+759990,91,Carbon monoxide,11.77,0.225318,Parts per million,La Habra
+768229,91,Nitrogen dioxide (NO2),11.46,20.272145,Parts per billion,La Habra
+768229,91,Ozone,11.46,0.053331,Parts per million,La Habra
+768229,91,PM2.5 - Local Conditions,12.1,10.512222,Micrograms/cubic meter (LC),Anaheim
+768229,91,Carbon monoxide,11.46,0.225318,Parts per million,La Habra
+717434,91,Nitrogen dioxide (NO2),11.26,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717434,91,Ozone,11.83,0.048333,Parts per million,Compton
+717434,91,PM2.5 - Local Conditions,11.26,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717434,91,Carbon monoxide,11.83,0.373044,Parts per million,Compton
+717402,91,Nitrogen dioxide (NO2),3.67,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717402,91,Ozone,4.58,0.048333,Parts per million,Compton
+717402,91,PM2.5 - Local Conditions,3.67,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717402,91,Carbon monoxide,4.58,0.373044,Parts per million,Compton
+766555,91,Nitrogen dioxide (NO2),11.49,20.272145,Parts per billion,La Habra
+766555,91,Ozone,11.49,0.053331,Parts per million,La Habra
+766555,91,PM2.5 - Local Conditions,12.25,10.512222,Micrograms/cubic meter (LC),Anaheim
+766555,91,Carbon monoxide,11.49,0.225318,Parts per million,La Habra
+717416,91,Nitrogen dioxide (NO2),5.76,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717416,91,Ozone,6.4,0.048333,Parts per million,Compton
+717416,91,PM2.5 - Local Conditions,5.76,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717416,91,Carbon monoxide,6.4,0.373044,Parts per million,Compton
+717383,91,Nitrogen dioxide (NO2),2.3,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717383,91,Ozone,3.37,0.048333,Parts per million,Compton
+717383,91,PM2.5 - Local Conditions,2.3,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717383,91,Carbon monoxide,3.37,0.373044,Parts per million,Compton
+773381,91,Nitrogen dioxide (NO2),1.57,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+773381,91,Ozone,3.17,0.048333,Parts per million,Compton
+773381,91,PM2.5 - Local Conditions,1.57,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+773381,91,Carbon monoxide,3.17,0.373044,Parts per million,Compton
+716272,91,Nitrogen dioxide (NO2),8.28,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+716272,91,Ozone,8.39,0.048333,Parts per million,Compton
+716272,91,PM2.5 - Local Conditions,8.28,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+716272,91,Carbon monoxide,8.39,0.373044,Parts per million,Compton
+717404,91,Nitrogen dioxide (NO2),4.04,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717404,91,Ozone,4.88,0.048333,Parts per million,Compton
+717404,91,PM2.5 - Local Conditions,4.04,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717404,91,Carbon monoxide,4.88,0.373044,Parts per million,Compton
+768228,91,Nitrogen dioxide (NO2),11.44,20.272145,Parts per billion,La Habra
+768228,91,Ozone,11.44,0.053331,Parts per million,La Habra
+768228,91,PM2.5 - Local Conditions,12.1,10.512222,Micrograms/cubic meter (LC),Anaheim
+768228,91,Carbon monoxide,11.44,0.225318,Parts per million,La Habra
+716273,91,Nitrogen dioxide (NO2),7.57,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+716273,91,Ozone,7.73,0.048333,Parts per million,Compton
+716273,91,PM2.5 - Local Conditions,7.57,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+716273,91,Carbon monoxide,7.73,0.373044,Parts per million,Compton
+717424,91,Nitrogen dioxide (NO2),7.08,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717424,91,Ozone,7.75,0.048333,Parts per million,Compton
+717424,91,PM2.5 - Local Conditions,7.08,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717424,91,Carbon monoxide,7.75,0.373044,Parts per million,Compton
+717433,91,Nitrogen dioxide (NO2),11.26,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717433,91,Ozone,11.82,0.048333,Parts per million,Compton
+717433,91,PM2.5 - Local Conditions,11.26,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717433,91,Carbon monoxide,11.82,0.373044,Parts per million,Compton
+717376,91,Nitrogen dioxide (NO2),4.94,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717376,91,Ozone,5.3,0.048333,Parts per million,Compton
+717376,91,PM2.5 - Local Conditions,4.94,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717376,91,Carbon monoxide,5.3,0.373044,Parts per million,Compton
+717436,91,Nitrogen dioxide (NO2),11.78,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717436,91,Ozone,12.35,0.048333,Parts per million,Compton
+717436,91,PM2.5 - Local Conditions,11.78,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717436,91,Carbon monoxide,12.35,0.373044,Parts per million,Compton
+717367,91,Nitrogen dioxide (NO2),6.62,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717367,91,Ozone,6.87,0.048333,Parts per million,Compton
+717367,91,PM2.5 - Local Conditions,6.62,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717367,91,Carbon monoxide,6.87,0.373044,Parts per million,Compton
+716296,91,Nitrogen dioxide (NO2),2.83,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+716296,91,Ozone,3.7,0.048333,Parts per million,Compton
+716296,91,PM2.5 - Local Conditions,2.83,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+716296,91,Carbon monoxide,3.7,0.373044,Parts per million,Compton
+717390,91,Nitrogen dioxide (NO2),1.47,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717390,91,Ozone,3.2,0.048333,Parts per million,Compton
+717390,91,PM2.5 - Local Conditions,1.47,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717390,91,Carbon monoxide,3.2,0.373044,Parts per million,Compton
+759989,91,Nitrogen dioxide (NO2),11.72,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+759989,91,Ozone,12.28,0.048333,Parts per million,Compton
+759989,91,PM2.5 - Local Conditions,11.72,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+759989,91,Carbon monoxide,12.28,0.373044,Parts per million,Compton
+759992,91,Nitrogen dioxide (NO2),11.01,19.807671,Parts per billion,Anaheim
+759992,91,Ozone,11.01,0.043536,Parts per million,Anaheim
+759992,91,PM2.5 - Local Conditions,11.01,10.512222,Micrograms/cubic meter (LC),Anaheim
+759992,91,Carbon monoxide,11.01,0.347953,Parts per million,Anaheim
+759967,91,Nitrogen dioxide (NO2),3.67,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+759967,91,Ozone,4.58,0.048333,Parts per million,Compton
+759967,91,PM2.5 - Local Conditions,3.67,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+759967,91,Carbon monoxide,4.58,0.373044,Parts per million,Compton
+717410,91,Nitrogen dioxide (NO2),4.78,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717410,91,Ozone,5.48,0.048333,Parts per million,Compton
+717410,91,PM2.5 - Local Conditions,4.78,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717410,91,Carbon monoxide,5.48,0.373044,Parts per million,Compton
+759975,91,Nitrogen dioxide (NO2),11.26,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+759975,91,Ozone,11.83,0.048333,Parts per million,Compton
+759975,91,PM2.5 - Local Conditions,11.26,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+759975,91,Carbon monoxide,11.83,0.373044,Parts per million,Compton
+768898,91,Nitrogen dioxide (NO2),7.07,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+768898,91,Ozone,7.76,0.048333,Parts per million,Compton
+768898,91,PM2.5 - Local Conditions,7.07,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+768898,91,Carbon monoxide,7.76,0.373044,Parts per million,Compton
+773365,91,Nitrogen dioxide (NO2),10.23,19.807671,Parts per billion,Anaheim
+773365,91,Ozone,10.23,0.043536,Parts per million,Anaheim
+773365,91,PM2.5 - Local Conditions,10.23,10.512222,Micrograms/cubic meter (LC),Anaheim
+773365,91,Carbon monoxide,10.23,0.347953,Parts per million,Anaheim
+717426,91,Nitrogen dioxide (NO2),7.41,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717426,91,Ozone,8.08,0.048333,Parts per million,Compton
+717426,91,PM2.5 - Local Conditions,7.41,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717426,91,Carbon monoxide,8.08,0.373044,Parts per million,Compton
+773363,91,Nitrogen dioxide (NO2),10.23,19.807671,Parts per billion,Anaheim
+773363,91,Ozone,10.23,0.043536,Parts per million,Anaheim
+773363,91,PM2.5 - Local Conditions,10.23,10.512222,Micrograms/cubic meter (LC),Anaheim
+773363,91,Carbon monoxide,10.23,0.347953,Parts per million,Anaheim
+717440,91,Nitrogen dioxide (NO2),11.77,20.272145,Parts per billion,La Habra
+717440,91,Ozone,11.77,0.053331,Parts per million,La Habra
+717440,91,PM2.5 - Local Conditions,12.6,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717440,91,Carbon monoxide,11.77,0.225318,Parts per million,La Habra
+765467,91,Nitrogen dioxide (NO2),5.09,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+765467,91,Ozone,5.78,0.048333,Parts per million,Compton
+765467,91,PM2.5 - Local Conditions,5.09,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+765467,91,Carbon monoxide,5.78,0.373044,Parts per million,Compton
+717045,10,Nitrogen dioxide (NO2),6.38,29.330532,Parts per billion,Los Angeles-North Main Street
+717045,10,Ozone,6.38,0.051825,Parts per million,Los Angeles-North Main Street
+717045,10,PM2.5 - Local Conditions,6.38,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717045,10,Carbon monoxide,6.38,0.393321,Parts per million,Los Angeles-North Main Street
+718419,10,Nitrogen dioxide (NO2),5.3,29.330532,Parts per billion,Los Angeles-North Main Street
+718419,10,Ozone,5.3,0.051825,Parts per million,Los Angeles-North Main Street
+718419,10,PM2.5 - Local Conditions,5.3,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+718419,10,Carbon monoxide,5.3,0.393321,Parts per million,Los Angeles-North Main Street
+718410,10,Nitrogen dioxide (NO2),3.22,20.066484,Parts per billion,West Los Angeles
+718410,10,Ozone,3.22,0.046438,Parts per million,West Los Angeles
+718410,10,PM2.5 - Local Conditions,19.17,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+718410,10,Carbon monoxide,19.17,0.393321,Parts per million,Los Angeles-North Main Street
+764050,10,Nitrogen dioxide (NO2),3.66,20.066484,Parts per billion,West Los Angeles
+764050,10,Ozone,3.66,0.046438,Parts per million,West Los Angeles
+764050,10,PM2.5 - Local Conditions,20.35,10.108475,Micrograms/cubic meter (LC),Reseda
+764050,10,Carbon monoxide,20.35,0.346067,Parts per million,Reseda
+717032,10,Nitrogen dioxide (NO2),10.22,29.330532,Parts per billion,Los Angeles-North Main Street
+717032,10,Ozone,10.22,0.051825,Parts per million,Los Angeles-North Main Street
+717032,10,PM2.5 - Local Conditions,10.22,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717032,10,Carbon monoxide,10.22,0.393321,Parts per million,Los Angeles-North Main Street
+737237,10,Nitrogen dioxide (NO2),3.47,20.066484,Parts per billion,West Los Angeles
+737237,10,Ozone,3.47,0.046438,Parts per million,West Los Angeles
+737237,10,PM2.5 - Local Conditions,20.31,10.108475,Micrograms/cubic meter (LC),Reseda
+737237,10,Carbon monoxide,20.31,0.346067,Parts per million,Reseda
+716057,10,Nitrogen dioxide (NO2),8.6,29.330532,Parts per billion,Los Angeles-North Main Street
+716057,10,Ozone,8.6,0.051825,Parts per million,Los Angeles-North Main Street
+716057,10,PM2.5 - Local Conditions,8.6,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+716057,10,Carbon monoxide,8.6,0.393321,Parts per million,Los Angeles-North Main Street
+763458,10,Nitrogen dioxide (NO2),5.03,29.330532,Parts per billion,Los Angeles-North Main Street
+763458,10,Ozone,5.03,0.051825,Parts per million,Los Angeles-North Main Street
+763458,10,PM2.5 - Local Conditions,5.03,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+763458,10,Carbon monoxide,5.03,0.393321,Parts per million,Los Angeles-North Main Street
+763963,10,Nitrogen dioxide (NO2),9.63,20.066484,Parts per billion,West Los Angeles
+763963,10,Ozone,9.63,0.046438,Parts per million,West Los Angeles
+763963,10,PM2.5 - Local Conditions,12.25,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+763963,10,Carbon monoxide,12.25,0.393321,Parts per million,Los Angeles-North Main Street
+717019,10,Nitrogen dioxide (NO2),8.01,20.066484,Parts per billion,West Los Angeles
+717019,10,Ozone,8.01,0.046438,Parts per million,West Los Angeles
+717019,10,PM2.5 - Local Conditions,13.75,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717019,10,Carbon monoxide,13.75,0.393321,Parts per million,Los Angeles-North Main Street
+763346,10,Nitrogen dioxide (NO2),8.8,29.330532,Parts per billion,Los Angeles-North Main Street
+763346,10,Ozone,8.8,0.051825,Parts per million,Los Angeles-North Main Street
+763346,10,PM2.5 - Local Conditions,8.8,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+763346,10,Carbon monoxide,8.8,0.393321,Parts per million,Los Angeles-North Main Street
+763341,10,Nitrogen dioxide (NO2),5.46,20.066484,Parts per billion,West Los Angeles
+763341,10,Ozone,5.46,0.046438,Parts per million,West Los Angeles
+763341,10,PM2.5 - Local Conditions,16.74,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+763341,10,Carbon monoxide,16.74,0.393321,Parts per million,Los Angeles-North Main Street
+763453,10,Nitrogen dioxide (NO2),4.99,29.330532,Parts per billion,Los Angeles-North Main Street
+763453,10,Ozone,4.99,0.051825,Parts per million,Los Angeles-North Main Street
+763453,10,PM2.5 - Local Conditions,4.99,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+763453,10,Carbon monoxide,4.99,0.393321,Parts per million,Los Angeles-North Main Street
+768584,10,Nitrogen dioxide (NO2),6.31,20.066484,Parts per billion,West Los Angeles
+768584,10,Ozone,6.31,0.046438,Parts per million,West Los Angeles
+768584,10,PM2.5 - Local Conditions,15.84,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+768584,10,Carbon monoxide,15.84,0.393321,Parts per million,Los Angeles-North Main Street
+717011,10,Nitrogen dioxide (NO2),6.49,20.066484,Parts per billion,West Los Angeles
+717011,10,Ozone,6.49,0.046438,Parts per million,West Los Angeles
+717011,10,PM2.5 - Local Conditions,15.55,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717011,10,Carbon monoxide,15.55,0.393321,Parts per million,Los Angeles-North Main Street
+737158,10,Nitrogen dioxide (NO2),4.53,29.330532,Parts per billion,Los Angeles-North Main Street
+737158,10,Ozone,4.53,0.051825,Parts per million,Los Angeles-North Main Street
+737158,10,PM2.5 - Local Conditions,4.53,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+737158,10,Carbon monoxide,4.53,0.393321,Parts per million,Los Angeles-North Main Street
+716063,10,Nitrogen dioxide (NO2),7.22,29.330532,Parts per billion,Los Angeles-North Main Street
+716063,10,Ozone,7.22,0.051825,Parts per million,Los Angeles-North Main Street
+716063,10,PM2.5 - Local Conditions,7.22,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+716063,10,Carbon monoxide,7.22,0.393321,Parts per million,Los Angeles-North Main Street
+717016,10,Nitrogen dioxide (NO2),7.69,20.066484,Parts per billion,West Los Angeles
+717016,10,Ozone,7.69,0.046438,Parts per million,West Los Angeles
+717016,10,PM2.5 - Local Conditions,14.04,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717016,10,Carbon monoxide,14.04,0.393321,Parts per million,Los Angeles-North Main Street
+718335,10,Nitrogen dioxide (NO2),6.63,29.330532,Parts per billion,Los Angeles-North Main Street
+718335,10,Ozone,6.63,0.051825,Parts per million,Los Angeles-North Main Street
+718335,10,PM2.5 - Local Conditions,6.63,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+718335,10,Carbon monoxide,6.63,0.393321,Parts per million,Los Angeles-North Main Street
+717269,60,Nitrogen dioxide (NO2),5.57,29.330532,Parts per billion,Los Angeles-North Main Street
+717269,60,Ozone,5.57,0.051825,Parts per million,Los Angeles-North Main Street
+717269,60,PM2.5 - Local Conditions,5.57,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717269,60,Carbon monoxide,5.57,0.393321,Parts per million,Los Angeles-North Main Street
+717290,60,Nitrogen dioxide (NO2),3.56,27.433058,Parts per billion,Pico Rivera #2
+717290,60,Ozone,3.56,0.056825,Parts per million,Pico Rivera #2
+717290,60,PM2.5 - Local Conditions,3.56,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717290,60,Carbon monoxide,3.56,0.359784,Parts per million,Pico Rivera #2
+716206,60,Nitrogen dioxide (NO2),4.41,29.330532,Parts per billion,Los Angeles-North Main Street
+716206,60,Ozone,4.41,0.051825,Parts per million,Los Angeles-North Main Street
+716206,60,PM2.5 - Local Conditions,4.41,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+716206,60,Carbon monoxide,4.41,0.393321,Parts per million,Los Angeles-North Main Street
+717274,60,Nitrogen dioxide (NO2),7.75,29.330532,Parts per billion,Los Angeles-North Main Street
+717274,60,Ozone,7.75,0.051825,Parts per million,Los Angeles-North Main Street
+717274,60,PM2.5 - Local Conditions,7.75,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717274,60,Carbon monoxide,7.75,0.393321,Parts per million,Los Angeles-North Main Street
+717316,60,Nitrogen dioxide (NO2),4.55,27.433058,Parts per billion,Pico Rivera #2
+717316,60,Ozone,4.55,0.056825,Parts per million,Pico Rivera #2
+717316,60,PM2.5 - Local Conditions,4.55,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717316,60,Carbon monoxide,4.55,0.359784,Parts per million,Pico Rivera #2
+717265,60,Nitrogen dioxide (NO2),5.14,29.330532,Parts per billion,Los Angeles-North Main Street
+717265,60,Ozone,5.14,0.051825,Parts per million,Los Angeles-North Main Street
+717265,60,PM2.5 - Local Conditions,5.14,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717265,60,Carbon monoxide,5.14,0.393321,Parts per million,Los Angeles-North Main Street
+773274,60,Nitrogen dioxide (NO2),6.94,29.330532,Parts per billion,Los Angeles-North Main Street
+773274,60,Ozone,6.94,0.051825,Parts per million,Los Angeles-North Main Street
+773274,60,PM2.5 - Local Conditions,6.94,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+773274,60,Carbon monoxide,6.94,0.393321,Parts per million,Los Angeles-North Main Street
+773294,60,Nitrogen dioxide (NO2),3.81,27.433058,Parts per billion,Pico Rivera #2
+773294,60,Ozone,3.81,0.056825,Parts per million,Pico Rivera #2
+773294,60,PM2.5 - Local Conditions,3.81,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+773294,60,Carbon monoxide,3.81,0.359784,Parts per million,Pico Rivera #2
+773409,60,Nitrogen dioxide (NO2),6.39,27.433058,Parts per billion,Pico Rivera #2
+773409,60,Ozone,6.39,0.056825,Parts per million,Pico Rivera #2
+773409,60,PM2.5 - Local Conditions,6.39,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+773409,60,Carbon monoxide,6.39,0.359784,Parts per million,Pico Rivera #2
+717273,60,Nitrogen dioxide (NO2),7.75,29.330532,Parts per billion,Los Angeles-North Main Street
+717273,60,Ozone,7.75,0.051825,Parts per million,Los Angeles-North Main Street
+717273,60,PM2.5 - Local Conditions,7.75,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717273,60,Carbon monoxide,7.75,0.393321,Parts per million,Los Angeles-North Main Street
+717292,60,Nitrogen dioxide (NO2),3.42,27.433058,Parts per billion,Pico Rivera #2
+717292,60,Ozone,3.42,0.056825,Parts per million,Pico Rivera #2
+717292,60,PM2.5 - Local Conditions,3.42,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717292,60,Carbon monoxide,3.42,0.359784,Parts per million,Pico Rivera #2
+717288,60,Nitrogen dioxide (NO2),3.64,27.433058,Parts per billion,Pico Rivera #2
+717288,60,Ozone,3.64,0.056825,Parts per million,Pico Rivera #2
+717288,60,PM2.5 - Local Conditions,3.64,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717288,60,Carbon monoxide,3.64,0.359784,Parts per million,Pico Rivera #2
+773273,60,Nitrogen dioxide (NO2),6.93,29.330532,Parts per billion,Los Angeles-North Main Street
+773273,60,Ozone,6.93,0.051825,Parts per million,Los Angeles-North Main Street
+773273,60,PM2.5 - Local Conditions,6.93,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+773273,60,Carbon monoxide,6.93,0.393321,Parts per million,Los Angeles-North Main Street
+717303,60,Nitrogen dioxide (NO2),3.57,27.433058,Parts per billion,Pico Rivera #2
+717303,60,Ozone,3.57,0.056825,Parts per million,Pico Rivera #2
+717303,60,PM2.5 - Local Conditions,3.57,12.610656,Micrograms/cubic meter (LC),Pico Rivera #2
+717303,60,Carbon monoxide,3.57,0.359784,Parts per million,Pico Rivera #2
+718002,710,Nitrogen dioxide (NO2),7.95,24.28477,Parts per billion,Compton
+718002,710,Ozone,7.95,0.048333,Parts per million,Compton
+718002,710,PM2.5 - Local Conditions,7.95,12.629412,Micrograms/cubic meter (LC),Compton
+718002,710,Carbon monoxide,7.95,0.373044,Parts per million,Compton
+718493,710,Nitrogen dioxide (NO2),2.2,24.28477,Parts per billion,Compton
+718493,710,Ozone,2.2,0.048333,Parts per million,Compton
+718493,710,PM2.5 - Local Conditions,2.2,12.629412,Micrograms/cubic meter (LC),Compton
+718493,710,Carbon monoxide,2.2,0.373044,Parts per million,Compton
+717995,710,Nitrogen dioxide (NO2),6.35,24.28477,Parts per billion,Compton
+717995,710,Ozone,6.35,0.048333,Parts per million,Compton
+717995,710,PM2.5 - Local Conditions,6.35,12.629412,Micrograms/cubic meter (LC),Compton
+717995,710,Carbon monoxide,6.35,0.373044,Parts per million,Compton
+718018,710,Nitrogen dioxide (NO2),6.03,29.330532,Parts per billion,Los Angeles-North Main Street
+718018,710,Ozone,6.03,0.051825,Parts per million,Los Angeles-North Main Street
+718018,710,PM2.5 - Local Conditions,6.03,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+718018,710,Carbon monoxide,6.03,0.393321,Parts per million,Los Angeles-North Main Street
+718102,710,Nitrogen dioxide (NO2),1.97,24.28477,Parts per billion,Compton
+718102,710,Ozone,1.97,0.048333,Parts per million,Compton
+718102,710,PM2.5 - Local Conditions,1.97,12.629412,Micrograms/cubic meter (LC),Compton
+718102,710,Carbon monoxide,1.97,0.373044,Parts per million,Compton
+761761,710,Nitrogen dioxide (NO2),2.14,24.28477,Parts per billion,Compton
+761761,710,Ozone,2.14,0.048333,Parts per million,Compton
+761761,710,PM2.5 - Local Conditions,2.14,12.629412,Micrograms/cubic meter (LC),Compton
+761761,710,Carbon monoxide,2.14,0.373044,Parts per million,Compton
+718321,710,Nitrogen dioxide (NO2),7.19,29.330532,Parts per billion,Los Angeles-North Main Street
+718321,710,Ozone,7.19,0.051825,Parts per million,Los Angeles-North Main Street
+718321,710,PM2.5 - Local Conditions,7.19,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+718321,710,Carbon monoxide,7.19,0.393321,Parts per million,Los Angeles-North Main Street
+717983,710,Nitrogen dioxide (NO2),4.17,24.28477,Parts per billion,Compton
+717983,710,Ozone,4.17,0.048333,Parts per million,Compton
+717983,710,PM2.5 - Local Conditions,4.17,12.629412,Micrograms/cubic meter (LC),Compton
+717983,710,Carbon monoxide,4.17,0.373044,Parts per million,Compton
+718280,405,Nitrogen dioxide (NO2),15.28,24.28477,Parts per billion,Compton
+718280,405,Ozone,15.28,0.048333,Parts per million,Compton
+718280,405,PM2.5 - Local Conditions,15.28,12.629412,Micrograms/cubic meter (LC),Compton
+718280,405,Carbon monoxide,15.28,0.373044,Parts per million,Compton
+718223,405,Nitrogen dioxide (NO2),4.47,21.307324,Parts per billion,Signal Hill (LBSH)
+718223,405,Ozone,4.47,0.046921,Parts per million,Signal Hill (LBSH)
+718223,405,PM2.5 - Local Conditions,4.47,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+718223,405,Carbon monoxide,13.3,0.373044,Parts per million,Compton
+771864,405,Nitrogen dioxide (NO2),3.8,21.307324,Parts per billion,Signal Hill (LBSH)
+771864,405,Ozone,3.8,0.046921,Parts per million,Signal Hill (LBSH)
+771864,405,PM2.5 - Local Conditions,3.8,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+771864,405,Carbon monoxide,8.95,0.373044,Parts per million,Compton
+718245,405,Nitrogen dioxide (NO2),3.23,21.307324,Parts per billion,Signal Hill (LBSH)
+718245,405,Ozone,3.23,0.046921,Parts per million,Signal Hill (LBSH)
+718245,405,PM2.5 - Local Conditions,3.23,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+718245,405,Carbon monoxide,9.37,0.373044,Parts per million,Compton
+717738,405,Nitrogen dioxide (NO2),7.33,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717738,405,Ozone,8.75,0.048333,Parts per million,Compton
+717738,405,PM2.5 - Local Conditions,7.33,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717738,405,Carbon monoxide,8.75,0.373044,Parts per million,Compton
+771866,405,Nitrogen dioxide (NO2),3.8,21.307324,Parts per billion,Signal Hill (LBSH)
+771866,405,Ozone,3.8,0.046921,Parts per million,Signal Hill (LBSH)
+771866,405,PM2.5 - Local Conditions,3.8,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+771866,405,Carbon monoxide,8.95,0.373044,Parts per million,Compton
+764611,405,Nitrogen dioxide (NO2),10.18,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+764611,405,Ozone,10.81,0.048333,Parts per million,Compton
+764611,405,PM2.5 - Local Conditions,10.18,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+764611,405,Carbon monoxide,10.81,0.373044,Parts per million,Compton
+771969,405,Nitrogen dioxide (NO2),10.16,20.066484,Parts per billion,West Los Angeles
+771969,405,Ozone,10.16,0.046438,Parts per million,West Los Angeles
+771969,405,PM2.5 - Local Conditions,17.97,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+771969,405,Carbon monoxide,17.97,0.393321,Parts per million,Los Angeles-North Main Street
+717706,405,Nitrogen dioxide (NO2),3.01,21.307324,Parts per billion,Signal Hill (LBSH)
+717706,405,Ozone,3.01,0.046921,Parts per million,Signal Hill (LBSH)
+717706,405,PM2.5 - Local Conditions,3.01,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+717706,405,Carbon monoxide,12.14,0.373044,Parts per million,Compton
+762552,405,Nitrogen dioxide (NO2),13.26,24.28477,Parts per billion,Compton
+762552,405,Ozone,13.26,0.048333,Parts per million,Compton
+762552,405,PM2.5 - Local Conditions,13.26,12.629412,Micrograms/cubic meter (LC),Compton
+762552,405,Carbon monoxide,13.26,0.373044,Parts per million,Compton
+717790,405,Nitrogen dioxide (NO2),5.81,20.066484,Parts per billion,West Los Angeles
+717790,405,Ozone,5.81,0.046438,Parts per million,West Los Angeles
+717790,405,PM2.5 - Local Conditions,18.59,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717790,405,Carbon monoxide,18.59,0.393321,Parts per million,Los Angeles-North Main Street
+718221,405,Nitrogen dioxide (NO2),5.44,21.307324,Parts per billion,Signal Hill (LBSH)
+718221,405,Ozone,5.44,0.046921,Parts per million,Signal Hill (LBSH)
+718221,405,PM2.5 - Local Conditions,5.44,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+718221,405,Carbon monoxide,14.11,0.373044,Parts per million,Compton
+717795,405,Nitrogen dioxide (NO2),2.13,20.066484,Parts per billion,West Los Angeles
+717795,405,Ozone,2.13,0.046438,Parts per million,West Los Angeles
+717795,405,PM2.5 - Local Conditions,19.83,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+717795,405,Carbon monoxide,19.83,0.393321,Parts per million,Los Angeles-North Main Street
+717756,405,Nitrogen dioxide (NO2),13.66,24.28477,Parts per billion,Compton
+717756,405,Ozone,13.66,0.048333,Parts per million,Compton
+717756,405,PM2.5 - Local Conditions,13.66,12.629412,Micrograms/cubic meter (LC),Compton
+717756,405,Carbon monoxide,13.66,0.373044,Parts per million,Compton
+718266,405,Nitrogen dioxide (NO2),11.57,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+718266,405,Ozone,11.89,0.048333,Parts per million,Compton
+718266,405,PM2.5 - Local Conditions,11.57,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+718266,405,Carbon monoxide,11.89,0.373044,Parts per million,Compton
+761523,405,Nitrogen dioxide (NO2),9.03,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+761523,405,Ozone,9.8,0.048333,Parts per million,Compton
+761523,405,PM2.5 - Local Conditions,9.03,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+761523,405,Carbon monoxide,9.8,0.373044,Parts per million,Compton
+718230,405,Nitrogen dioxide (NO2),3.28,21.307324,Parts per billion,Signal Hill (LBSH)
+718230,405,Ozone,3.28,0.046921,Parts per million,Signal Hill (LBSH)
+718230,405,PM2.5 - Local Conditions,3.28,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+718230,405,Carbon monoxide,12.59,0.373044,Parts per million,Compton
+771899,405,Nitrogen dioxide (NO2),4.32,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+771899,405,Ozone,5.88,0.046921,Parts per million,Signal Hill (LBSH)
+771899,405,PM2.5 - Local Conditions,4.32,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+771899,405,Carbon monoxide,8.63,0.373044,Parts per million,Compton
+761482,405,Nitrogen dioxide (NO2),13.67,20.066484,Parts per billion,West Los Angeles
+761482,405,Ozone,13.67,0.046438,Parts per million,West Los Angeles
+761482,405,PM2.5 - Local Conditions,16.13,12.629412,Micrograms/cubic meter (LC),Compton
+761482,405,Carbon monoxide,16.13,0.373044,Parts per million,Compton
+717722,405,Nitrogen dioxide (NO2),3.46,21.307324,Parts per billion,Signal Hill (LBSH)
+717722,405,Ozone,3.46,0.046921,Parts per million,Signal Hill (LBSH)
+717722,405,PM2.5 - Local Conditions,3.46,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+717722,405,Carbon monoxide,9.17,0.373044,Parts per million,Compton
+717729,405,Nitrogen dioxide (NO2),4.47,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717729,405,Ozone,6.21,0.046921,Parts per million,Signal Hill (LBSH)
+717729,405,PM2.5 - Local Conditions,4.47,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717729,405,Carbon monoxide,8.66,0.373044,Parts per million,Compton
+717735,405,Nitrogen dioxide (NO2),6.24,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717735,405,Ozone,8.72,0.048333,Parts per million,Compton
+717735,405,PM2.5 - Local Conditions,6.24,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717735,405,Carbon monoxide,8.72,0.373044,Parts per million,Compton
+716674,405,Nitrogen dioxide (NO2),12.46,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+716674,405,Ozone,12.62,0.048333,Parts per million,Compton
+716674,405,PM2.5 - Local Conditions,12.46,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+716674,405,Carbon monoxide,12.62,0.373044,Parts per million,Compton
+718249,405,Nitrogen dioxide (NO2),4.45,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+718249,405,Ozone,6.11,0.046921,Parts per million,Signal Hill (LBSH)
+718249,405,PM2.5 - Local Conditions,4.45,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+718249,405,Carbon monoxide,8.67,0.373044,Parts per million,Compton
+764578,405,Nitrogen dioxide (NO2),12.41,20.066484,Parts per billion,West Los Angeles
+764578,405,Ozone,12.41,0.046438,Parts per million,West Los Angeles
+764578,405,PM2.5 - Local Conditions,16.83,12.629412,Micrograms/cubic meter (LC),Compton
+764578,405,Carbon monoxide,16.83,0.373044,Parts per million,Compton
+717758,405,Nitrogen dioxide (NO2),14.4,24.28477,Parts per billion,Compton
+717758,405,Ozone,14.4,0.048333,Parts per million,Compton
+717758,405,PM2.5 - Local Conditions,14.4,12.629412,Micrograms/cubic meter (LC),Compton
+717758,405,Carbon monoxide,14.4,0.373044,Parts per million,Compton
+718265,405,Nitrogen dioxide (NO2),11.7,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+718265,405,Ozone,12.01,0.048333,Parts per million,Compton
+718265,405,PM2.5 - Local Conditions,11.7,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+718265,405,Carbon monoxide,12.01,0.373044,Parts per million,Compton
+774105,405,Nitrogen dioxide (NO2),8.48,20.066484,Parts per billion,West Los Angeles
+774105,405,Ozone,8.48,0.046438,Parts per million,West Los Angeles
+774105,405,PM2.5 - Local Conditions,18.17,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+774105,405,Carbon monoxide,18.17,0.393321,Parts per million,Los Angeles-North Main Street
+717760,405,Nitrogen dioxide (NO2),14.57,24.28477,Parts per billion,Compton
+717760,405,Ozone,14.57,0.048333,Parts per million,Compton
+717760,405,PM2.5 - Local Conditions,14.57,12.629412,Micrograms/cubic meter (LC),Compton
+717760,405,Carbon monoxide,14.57,0.373044,Parts per million,Compton
+771917,405,Nitrogen dioxide (NO2),4.8,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+771917,405,Ozone,6.77,0.046921,Parts per million,Signal Hill (LBSH)
+771917,405,PM2.5 - Local Conditions,4.8,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+771917,405,Carbon monoxide,8.78,0.373044,Parts per million,Compton
+769265,405,Nitrogen dioxide (NO2),11.44,20.066484,Parts per billion,West Los Angeles
+769265,405,Ozone,11.44,0.046438,Parts per million,West Los Angeles
+769265,405,PM2.5 - Local Conditions,17.44,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+769265,405,Carbon monoxide,17.44,0.393321,Parts per million,Los Angeles-North Main Street
+772454,405,Nitrogen dioxide (NO2),4.64,20.066484,Parts per billion,West Los Angeles
+772454,405,Ozone,4.64,0.046438,Parts per million,West Los Angeles
+772454,405,PM2.5 - Local Conditions,18.92,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+772454,405,Carbon monoxide,18.92,0.393321,Parts per million,Los Angeles-North Main Street
+717707,405,Nitrogen dioxide (NO2),3.01,21.307324,Parts per billion,Signal Hill (LBSH)
+717707,405,Ozone,3.01,0.046921,Parts per million,Signal Hill (LBSH)
+717707,405,PM2.5 - Local Conditions,3.01,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+717707,405,Carbon monoxide,12.14,0.373044,Parts per million,Compton
+762533,405,Nitrogen dioxide (NO2),2.38,21.307324,Parts per billion,Signal Hill (LBSH)
+762533,405,Ozone,2.38,0.046921,Parts per million,Signal Hill (LBSH)
+762533,405,PM2.5 - Local Conditions,2.38,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+762533,405,Carbon monoxide,10.0,0.373044,Parts per million,Compton
+718287,405,Nitrogen dioxide (NO2),11.44,20.066484,Parts per billion,West Los Angeles
+718287,405,Ozone,11.44,0.046438,Parts per million,West Los Angeles
+718287,405,PM2.5 - Local Conditions,17.46,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+718287,405,Carbon monoxide,17.46,0.393321,Parts per million,Los Angeles-North Main Street
+718232,405,Nitrogen dioxide (NO2),2.88,21.307324,Parts per billion,Signal Hill (LBSH)
+718232,405,Ozone,2.88,0.046921,Parts per million,Signal Hill (LBSH)
+718232,405,PM2.5 - Local Conditions,2.88,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+718232,405,Carbon monoxide,12.05,0.373044,Parts per million,Compton
+769263,405,Nitrogen dioxide (NO2),12.63,20.066484,Parts per billion,West Los Angeles
+769263,405,Ozone,12.63,0.046438,Parts per million,West Los Angeles
+769263,405,PM2.5 - Local Conditions,16.67,12.629412,Micrograms/cubic meter (LC),Compton
+769263,405,Carbon monoxide,16.67,0.373044,Parts per million,Compton
+761444,405,Nitrogen dioxide (NO2),13.09,24.28477,Parts per billion,Compton
+761444,405,Ozone,13.09,0.048333,Parts per million,Compton
+761444,405,PM2.5 - Local Conditions,13.09,12.629412,Micrograms/cubic meter (LC),Compton
+761444,405,Carbon monoxide,13.09,0.373044,Parts per million,Compton
+718479,405,Nitrogen dioxide (NO2),14.42,24.28477,Parts per billion,Compton
+718479,405,Ozone,14.42,0.048333,Parts per million,Compton
+718479,405,PM2.5 - Local Conditions,14.42,12.629412,Micrograms/cubic meter (LC),Compton
+718479,405,Carbon monoxide,14.42,0.373044,Parts per million,Compton
+769259,405,Nitrogen dioxide (NO2),13.64,20.066484,Parts per billion,West Los Angeles
+769259,405,Ozone,13.64,0.046438,Parts per million,West Los Angeles
+769259,405,PM2.5 - Local Conditions,16.15,12.629412,Micrograms/cubic meter (LC),Compton
+769259,405,Carbon monoxide,16.15,0.373044,Parts per million,Compton
+717715,405,Nitrogen dioxide (NO2),2.25,21.307324,Parts per billion,Signal Hill (LBSH)
+717715,405,Ozone,2.25,0.046921,Parts per million,Signal Hill (LBSH)
+717715,405,PM2.5 - Local Conditions,2.25,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+717715,405,Carbon monoxide,10.31,0.373044,Parts per million,Compton
+772437,405,Nitrogen dioxide (NO2),5.35,20.066484,Parts per billion,West Los Angeles
+772437,405,Ozone,5.35,0.046438,Parts per million,West Los Angeles
+772437,405,PM2.5 - Local Conditions,18.7,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+772437,405,Carbon monoxide,18.7,0.393321,Parts per million,Los Angeles-North Main Street
+772532,405,Nitrogen dioxide (NO2),3.65,20.066484,Parts per billion,West Los Angeles
+772532,405,Ozone,3.65,0.046438,Parts per million,West Los Angeles
+772532,405,PM2.5 - Local Conditions,19.24,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+772532,405,Carbon monoxide,19.24,0.393321,Parts per million,Los Angeles-North Main Street
+764671,405,Nitrogen dioxide (NO2),8.48,20.066484,Parts per billion,West Los Angeles
+764671,405,Ozone,8.48,0.046438,Parts per million,West Los Angeles
+764671,405,PM2.5 - Local Conditions,18.17,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+764671,405,Carbon monoxide,18.17,0.393321,Parts per million,Los Angeles-North Main Street
+764572,405,Nitrogen dioxide (NO2),12.62,20.066484,Parts per billion,West Los Angeles
+764572,405,Ozone,12.62,0.046438,Parts per million,West Los Angeles
+764572,405,PM2.5 - Local Conditions,16.69,12.629412,Micrograms/cubic meter (LC),Compton
+764572,405,Carbon monoxide,16.69,0.373044,Parts per million,Compton
+718242,405,Nitrogen dioxide (NO2),2.82,21.307324,Parts per billion,Signal Hill (LBSH)
+718242,405,Ozone,2.82,0.046921,Parts per million,Signal Hill (LBSH)
+718242,405,PM2.5 - Local Conditions,2.82,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+718242,405,Carbon monoxide,9.68,0.373044,Parts per million,Compton
+717744,405,Nitrogen dioxide (NO2),9.88,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717744,405,Ozone,10.54,0.048333,Parts per million,Compton
+717744,405,PM2.5 - Local Conditions,9.88,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717744,405,Carbon monoxide,10.54,0.373044,Parts per million,Compton
+717709,405,Nitrogen dioxide (NO2),2.82,21.307324,Parts per billion,Signal Hill (LBSH)
+717709,405,Ozone,2.82,0.046921,Parts per million,Signal Hill (LBSH)
+717709,405,PM2.5 - Local Conditions,2.82,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+717709,405,Carbon monoxide,11.97,0.373044,Parts per million,Compton
+716663,405,Nitrogen dioxide (NO2),8.04,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+716663,405,Ozone,9.0,0.048333,Parts per million,Compton
+716663,405,PM2.5 - Local Conditions,8.04,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+716663,405,Carbon monoxide,9.0,0.373044,Parts per million,Compton
+772455,405,Nitrogen dioxide (NO2),4.64,20.066484,Parts per billion,West Los Angeles
+772455,405,Ozone,4.64,0.046438,Parts per million,West Los Angeles
+772455,405,PM2.5 - Local Conditions,18.9,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+772455,405,Carbon monoxide,18.9,0.393321,Parts per million,Los Angeles-North Main Street
+772527,405,Nitrogen dioxide (NO2),4.67,20.066484,Parts per billion,West Los Angeles
+772527,405,Ozone,4.67,0.046438,Parts per million,West Los Angeles
+772527,405,PM2.5 - Local Conditions,18.91,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+772527,405,Carbon monoxide,18.91,0.393321,Parts per million,Los Angeles-North Main Street
+762545,405,Nitrogen dioxide (NO2),5.99,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+762545,405,Ozone,9.0,0.048333,Parts per million,Compton
+762545,405,PM2.5 - Local Conditions,5.99,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+762545,405,Carbon monoxide,9.0,0.373044,Parts per million,Compton
+717711,405,Nitrogen dioxide (NO2),2.18,21.307324,Parts per billion,Signal Hill (LBSH)
+717711,405,Ozone,2.18,0.046921,Parts per million,Signal Hill (LBSH)
+717711,405,PM2.5 - Local Conditions,2.18,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+717711,405,Carbon monoxide,10.68,0.373044,Parts per million,Compton
+762582,405,Nitrogen dioxide (NO2),4.07,21.307324,Parts per billion,Signal Hill (LBSH)
+762582,405,Ozone,4.07,0.046921,Parts per million,Signal Hill (LBSH)
+762582,405,PM2.5 - Local Conditions,4.07,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+762582,405,Carbon monoxide,13.06,0.373044,Parts per million,Compton
+767847,405,Nitrogen dioxide (NO2),15.34,24.28477,Parts per billion,Compton
+767847,405,Ozone,15.34,0.048333,Parts per million,Compton
+767847,405,PM2.5 - Local Conditions,15.34,12.629412,Micrograms/cubic meter (LC),Compton
+767847,405,Carbon monoxide,15.34,0.373044,Parts per million,Compton
+771939,405,Nitrogen dioxide (NO2),6.06,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+771939,405,Ozone,8.88,0.048333,Parts per million,Compton
+771939,405,PM2.5 - Local Conditions,6.06,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+771939,405,Carbon monoxide,8.88,0.373044,Parts per million,Compton
+759422,405,Nitrogen dioxide (NO2),15.34,24.28477,Parts per billion,Compton
+759422,405,Ozone,15.34,0.048333,Parts per million,Compton
+759422,405,PM2.5 - Local Conditions,15.34,12.629412,Micrograms/cubic meter (LC),Compton
+759422,405,Carbon monoxide,15.34,0.373044,Parts per million,Compton
+761440,405,Nitrogen dioxide (NO2),10.86,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+761440,405,Ozone,11.34,0.048333,Parts per million,Compton
+761440,405,PM2.5 - Local Conditions,10.86,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+761440,405,Carbon monoxide,11.34,0.373044,Parts per million,Compton
+718256,405,Nitrogen dioxide (NO2),6.26,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+718256,405,Ozone,8.74,0.048333,Parts per million,Compton
+718256,405,PM2.5 - Local Conditions,6.26,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+718256,405,Carbon monoxide,8.74,0.373044,Parts per million,Compton
+717740,405,Nitrogen dioxide (NO2),8.23,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+717740,405,Ozone,9.12,0.048333,Parts per million,Compton
+717740,405,PM2.5 - Local Conditions,8.23,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+717740,405,Carbon monoxide,9.12,0.373044,Parts per million,Compton
+718296,405,Nitrogen dioxide (NO2),5.83,20.066484,Parts per billion,West Los Angeles
+718296,405,Ozone,5.83,0.046438,Parts per million,West Los Angeles
+718296,405,PM2.5 - Local Conditions,18.6,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+718296,405,Carbon monoxide,18.6,0.393321,Parts per million,Los Angeles-North Main Street
+718227,405,Nitrogen dioxide (NO2),3.63,21.307324,Parts per billion,Signal Hill (LBSH)
+718227,405,Ozone,3.63,0.046921,Parts per million,Signal Hill (LBSH)
+718227,405,PM2.5 - Local Conditions,3.63,11.344898,Micrograms/cubic meter (LC),Signal Hill (LBSH)
+718227,405,Carbon monoxide,12.79,0.373044,Parts per million,Compton
+716720,405,Nitrogen dioxide (NO2),1.61,20.066484,Parts per billion,West Los Angeles
+716720,405,Ozone,1.61,0.046438,Parts per million,West Los Angeles
+716720,405,PM2.5 - Local Conditions,19.33,10.108475,Micrograms/cubic meter (LC),Reseda
+716720,405,Carbon monoxide,19.33,0.346067,Parts per million,Reseda
+764596,405,Nitrogen dioxide (NO2),15.39,24.28477,Parts per billion,Compton
+764596,405,Ozone,15.39,0.048333,Parts per million,Compton
+764596,405,PM2.5 - Local Conditions,15.39,12.629412,Micrograms/cubic meter (LC),Compton
+764596,405,Carbon monoxide,15.39,0.373044,Parts per million,Compton
+772456,405,Nitrogen dioxide (NO2),4.64,20.066484,Parts per billion,West Los Angeles
+772456,405,Ozone,4.64,0.046438,Parts per million,West Los Angeles
+772456,405,PM2.5 - Local Conditions,18.92,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+772456,405,Carbon monoxide,18.92,0.393321,Parts per million,Los Angeles-North Main Street
+763267,110,Nitrogen dioxide (NO2),10.83,29.330532,Parts per billion,Los Angeles-North Main Street
+763267,110,Ozone,10.83,0.051825,Parts per million,Los Angeles-North Main Street
+763267,110,PM2.5 - Local Conditions,10.83,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+763267,110,Carbon monoxide,10.83,0.393321,Parts per million,Los Angeles-North Main Street
+759418,110,Nitrogen dioxide (NO2),7.47,24.28477,Parts per billion,Compton
+759418,110,Ozone,7.47,0.048333,Parts per million,Compton
+759418,110,PM2.5 - Local Conditions,7.47,12.629412,Micrograms/cubic meter (LC),Compton
+759418,110,Carbon monoxide,7.47,0.373044,Parts per million,Compton
+763447,110,Nitrogen dioxide (NO2),7.27,29.330532,Parts per billion,Los Angeles-North Main Street
+763447,110,Ozone,7.27,0.051825,Parts per million,Los Angeles-North Main Street
+763447,110,PM2.5 - Local Conditions,7.27,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+763447,110,Carbon monoxide,7.27,0.393321,Parts per million,Los Angeles-North Main Street
+716499,110,Nitrogen dioxide (NO2),8.85,24.28477,Parts per billion,Compton
+716499,110,Ozone,8.85,0.048333,Parts per million,Compton
+716499,110,PM2.5 - Local Conditions,8.85,12.629412,Micrograms/cubic meter (LC),Compton
+716499,110,Carbon monoxide,8.85,0.373044,Parts per million,Compton
+716484,110,Nitrogen dioxide (NO2),7.62,24.28477,Parts per billion,Compton
+716484,110,Ozone,7.62,0.048333,Parts per million,Compton
+716484,110,PM2.5 - Local Conditions,7.62,12.629412,Micrograms/cubic meter (LC),Compton
+716484,110,Carbon monoxide,7.62,0.373044,Parts per million,Compton
+763400,110,Nitrogen dioxide (NO2),9.59,24.28477,Parts per billion,Compton
+763400,110,Ozone,9.59,0.048333,Parts per million,Compton
+763400,110,PM2.5 - Local Conditions,9.59,12.629412,Micrograms/cubic meter (LC),Compton
+763400,110,Carbon monoxide,9.59,0.373044,Parts per million,Compton
+763413,110,Nitrogen dioxide (NO2),10.94,24.28477,Parts per billion,Compton
+763413,110,Ozone,10.94,0.048333,Parts per million,Compton
+763413,110,PM2.5 - Local Conditions,10.94,12.629412,Micrograms/cubic meter (LC),Compton
+763413,110,Carbon monoxide,10.94,0.373044,Parts per million,Compton
+718164,110,Nitrogen dioxide (NO2),9.92,29.330532,Parts per billion,Los Angeles-North Main Street
+718164,110,Ozone,9.92,0.051825,Parts per million,Los Angeles-North Main Street
+718164,110,PM2.5 - Local Conditions,9.92,12.163636,Micrograms/cubic meter (LC),Los Angeles-North Main Street
+718164,110,Carbon monoxide,9.92,0.393321,Parts per million,Los Angeles-North Main Street
+763392,110,Nitrogen dioxide (NO2),9.44,24.28477,Parts per billion,Compton
+763392,110,Ozone,9.44,0.048333,Parts per million,Compton
+763392,110,PM2.5 - Local Conditions,9.44,12.629412,Micrograms/cubic meter (LC),Compton
+763392,110,Carbon monoxide,9.44,0.373044,Parts per million,Compton
+766337,110,Nitrogen dioxide (NO2),7.79,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+766337,110,Ozone,8.98,0.048333,Parts per million,Compton
+766337,110,PM2.5 - Local Conditions,7.79,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+766337,110,Carbon monoxide,8.98,0.373044,Parts per million,Compton
+763272,110,Nitrogen dioxide (NO2),10.27,24.28477,Parts per billion,Compton
+763272,110,Ozone,10.27,0.048333,Parts per million,Compton
+763272,110,PM2.5 - Local Conditions,10.27,12.629412,Micrograms/cubic meter (LC),Compton
+763272,110,Carbon monoxide,10.27,0.373044,Parts per million,Compton
+763532,110,Nitrogen dioxide (NO2),7.96,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+763532,110,Ozone,9.67,0.048333,Parts per million,Compton
+763532,110,PM2.5 - Local Conditions,7.96,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+763532,110,Carbon monoxide,9.67,0.373044,Parts per million,Compton
+763522,110,Nitrogen dioxide (NO2),9.65,34.812121,Parts per billion,Long Beach-Route 710 Near Road
+763522,110,Ozone,10.91,0.046921,Parts per million,Signal Hill (LBSH)
+763522,110,PM2.5 - Local Conditions,9.65,11.47654,Micrograms/cubic meter (LC),Long Beach-Route 710 Near Road
+763522,110,Carbon monoxide,12.59,0.373044,Parts per million,Compton
+763275,110,Nitrogen dioxide (NO2),10.27,24.28477,Parts per billion,Compton
+763275,110,Ozone,10.27,0.048333,Parts per million,Compton
+763275,110,PM2.5 - Local Conditions,10.27,12.629412,Micrograms/cubic meter (LC),Compton
+763275,110,Carbon monoxide,10.27,0.373044,Parts per million,Compton
