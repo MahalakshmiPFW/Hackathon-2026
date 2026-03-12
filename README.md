@@ -39,7 +39,4 @@ Focus: Building ETL pipelines that transform raw OpenStreetMap data into graph s
 
 ### 🆔 Metadata & mapping
 * **`sensor_metadata.csv`**: Static sensor attributes including Freeway ID, Direction, and mapped 2024 $NO_2$ baseline. Join key: `sensor_id`.
-* **`sensor_to_pollution_mapping.csv`**: Cross-reference file for linking environmental monitors to specific highway stretches.
-
-
-ng the `sensor_id` and the calculated `timestamp`.
+* **`sensor_to_pollution_mapping.csv`**: Cross-reference file 
