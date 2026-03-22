@@ -39,4 +39,15 @@ Focus: Building ETL pipelines that transform raw OpenStreetMap data into graph s
 
 ### 🆔 Metadata & mapping
 * **`sensor_metadata.csv`**: Static sensor attributes including Freeway ID, Direction, and mapped 2024 $NO_2$ baseline. Join key: `sensor_id`.
-* **`sensor_to_pollution_mapping.csv`**: Cross-reference file 
+* **`sensor_to_pollution_mapping.csv`**: Cross-reference file
+
+## System Design 
+
+### Functional Requirements
+1. Ingest traffic, pollution, and energy sensor data in real-time
+2. View live traffic heatmap on map (road-level)
+3. Run traffic light optimization simulation 
+4. Forecast congestion up to 24h ahead for any road segment
+5. Query city data in natural language ("what if we close X street?")
+6. View pollution overlay on map (NO2, PM2.5, AQI)
+7. Playback historical simulation results
